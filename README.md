@@ -1,6 +1,8 @@
-### Welcome to my Github! 
+<div align="center"> 
 
-:movie_camera::computer::bulb:  ***I'm Rosa, lighting technician and filmmaker turned into a coder!***
+***ABOUT ME***
+
+:movie_camera::computer::bulb:  ***I'm Rosa, lighting technician and filmmaker turned into a coder!*** :bulb::computer::movie_camera:
 
 :honeybee:    Currently studying coding at Hive Helsinki 
 
@@ -18,6 +20,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosamakinen&layout=compact&theme=vision-friendly-dark)](https://github.com/username/github-readme-stats)
+
+<div>
 
 
 <!--
