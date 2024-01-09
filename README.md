@@ -2,7 +2,7 @@
 
 ***:wave:  WELCOME TO MY GITHUB :wave:***
 
-:movie_camera::computer::bulb:  ***I'm Rosa, lighting technician and filmmaker turned into a game developer!*** :bulb::computer::movie_camera:
+:movie_camera::computer::bulb:  ***HI! I'm Rosa, lighting technician turned into a developer!*** :bulb::computer::movie_camera:
 
 :honeybee:    Currently studying coding at Hive Helsinki 
 
