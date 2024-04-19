@@ -6,7 +6,7 @@
 
 :books:    Currently studying coding in C and C++ at Hive Helsinki
 
-:video_game:    Passionate about graphics, game development, and lighting.
+:video_game:    Passionate about graphics, game development, and lighting
 
 🤓  Exited about creative problem-solving and debugging
 
