@@ -1,16 +1,17 @@
 <div align="center"> 
 
-***:wave:  WELCOME TO MY GITHUB :wave:***
+***:wave: HI THERE! WELCOME TO MY GITHUB :wave:***
 
-:movie_camera::computer::bulb:  ***HI! I'm Rosa, lighting technician turned into a developer!*** :bulb::computer::movie_camera:
+:movie_camera::computer::bulb:  ***HI! I'm Rosa, filmmaker turned into a developer!*** :bulb::computer::movie_camera:
 
-:honeybee:    Currently studying coding at Hive Helsinki 
+:books:    Currently studying coding in C and C++ at Hive Helsinki
 
-:video_game:    Excited about lighting, graphics and game development
+:video_game:    Passionate about graphics, game development, and lighting.
 
-:fire:    Passionate about combining my skills from film industry with my programming skills
+🤓  Exited about creative problem-solving and debugging
 
-:books:    Learning C++, C and Unreal Engine
+:fire:    Cant wait to combine my skills from film industry with my programming skills
+
 
 
 
