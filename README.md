@@ -10,7 +10,7 @@
 
 🤓  Exited about creative problem-solving and debugging
 
-:fire:    Cant wait to combine my skills from film industry with my programming skills
+:fire:    Cant wait to combine my experience in visual storytelling with my programming skills
 
 
 
