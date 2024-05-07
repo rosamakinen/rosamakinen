@@ -4,7 +4,7 @@
 
 :movie_camera::computer::bulb:  ***HI! I'm Rosa, filmmaker turned into a developer!*** :bulb::computer::movie_camera:
 
-:books:    Currently studying coding in C and C++ at Hive Helsinki
+:books:    C, C++, Python, Git, UNIX CLI, Docker
 
 :video_game:    Passionate about graphics, game development, and lighting
 
