@@ -6,11 +6,10 @@
 
 :books:    C, C++, Python, Git, UNIX CLI, Docker
 
-:video_game:    Passionate about graphics, game development, and lighting
+:fire:    Passionate about graphics and cyber security
 
 🤓  Exited about creative problem-solving and debugging
 
-:fire:    Cant wait to combine my experience in visual storytelling with my programming skills
 
 
 
