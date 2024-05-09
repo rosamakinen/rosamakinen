@@ -6,7 +6,7 @@
 
 :books:    C, C++, Python, Git, UNIX CLI, Docker
 
-:fire:    Passionate about graphics and cyber security
+:fire:    Passionate about game development and cyber security
 
 🤓  Exited about creative problem-solving and debugging
 
